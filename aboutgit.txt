@@ -36,4 +36,8 @@ git针对的是修改，而不是文件。只有将文件 git add 文件名， �
 创建并切换分支：git switch -c <name>
 合并某分支到当前分支：git merge <name>
 删除分支：git branch -d <name>
+<<<<<<< HEAD
 进行测试！
+=======
+ 
+>>>>>>> whqing
