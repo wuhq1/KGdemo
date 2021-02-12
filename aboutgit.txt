@@ -30,3 +30,10 @@ git针对的是修改，而不是文件。只有将文件 git add 文件名， �
 伺候，每次本地提交之后，只要有必要，就可以使用命令 git push origin master推送最新修改。
 
 对此添加一行作为印记！
+对于分支：
+查看分支：git branch
+创建分支：git branch <名字>
+创建并切换分支：git switch -c <name>
+合并某分支到当前分支：git merge <name>
+删除分支：git branch -d <name>
+进行测试！
